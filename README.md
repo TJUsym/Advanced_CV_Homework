@@ -11,6 +11,8 @@ The master branch works with **PyTorch 1.1** or higher.
 
 [mmdetection](https://github.com/open-mmlab/mmdetection)
 
+[DOTA_devkit](https://github.com/CAPTAIN-WHU/DOTA_devkit)
+
 ## Citation
 
 ```
@@ -22,14 +24,6 @@ The master branch works with **PyTorch 1.1** or higher.
   archivePrefix={arXiv}, 
   primaryClass={cs.CV} 
   }
-
-@inproceedings{xia2018dota,
-  title={DOTA: A large-scale dataset for object detection in aerial images},
-  author={Xia, Gui-Song and Bai, Xiang and Ding, Jian and Zhu, Zhen and Belongie, Serge and Luo, Jiebo and Datcu, Mihai and Pelillo, Marcello and Zhang, Liangpei},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={3974--3983},
-  year={2018}
-}
 
 @InProceedings{Ding_2019_CVPR,
   author = {Ding, Jian and Xue, Nan and Long, Yang and Xia, Gui-Song and Lu, Qikai},
